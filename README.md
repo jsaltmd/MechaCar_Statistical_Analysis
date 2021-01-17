@@ -1,4 +1,4 @@
-# MechaCar Statistical Analysis
+![](./pictures/pic9.png)
 
 ### Overview of the statistical analysis:
 
