@@ -63,11 +63,11 @@ Lot Summary:
 
 Summary: *Using R, t-tests were performed to determine if all manufacturing lots and each lot individually are statistically different from the population mean of 1,500 pounds per square inch.*
 
-t-test results across all manufacturing lots:
+- t-test results across all manufacturing lots:
 
 ![](./pictures/pic5.png)
 
-t-test results for each lot:
+- t-test results for each lot:
 
 Mfg. Lot 1
 
@@ -85,6 +85,7 @@ Mfg. Lot 3
 
 1. Briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.
 
+*For all manufacturing lots, the p-value of the suspension coil for PSI is 0.06 which is above the significance level of 0.05%. Therefore, the importance of finding is normal. When t-test is performed for each lot, the p-values for lot 1 (1) and lot 2 (0.61) are both above the significance level and therefore, the results are not statistically different from the mean population of 1,500 pounds per square inch. The p-value for lot 3 is 0.04 and therefore, it is statistically different from the mean population of 1,500 pounds per square inch.*
 
 **Deliverable 4:** Study Design: MechaCar vs Competition:
 
