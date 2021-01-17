@@ -95,11 +95,16 @@ In your description, address the following questions:
 
 - What metric or metrics are you going to test?
 - What is the null hypothesis or alternative hypothesis?
-- hypothesis? And why?
+- What statistical test would you use to test the hypothesis? And why?
 - What data is needed to run the statistical test?
 
+1. Horsepower refers to the power an engine produces and since most drivers wants faster cars, it might be worthwile to look into this when comparing how MechaCar performs against the competition. Another interest is fuel efficiency as lowering carbon footprint is important for the invironment and lowering cost is not a bad idea. 
 
+2. A null hypothesis (H0)can be stated how it is not different from the competitor (is there a statistical difference?) and the alternative (Ha) is how it is different.
 
+3. Data from the competitor's vehicles are needed in order to perform the t-test.
+
+4. The population mean will be used to compare through the t-test.
 
 
 
