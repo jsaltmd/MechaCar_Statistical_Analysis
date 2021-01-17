@@ -100,11 +100,11 @@ In your description, address the following questions:
 
 1. Horsepower refers to the power an engine produces and since most drivers wants faster cars, it might be worthwile to look into this when comparing how MechaCar performs against the competition. Another interest is fuel efficiency as lowering carbon footprint is important for the invironment and lowering cost is not a bad idea. 
 
-2. A null hypothesis (H0)can be stated how it is not different from the competitor (is there a statistical difference?) and the alternative (Ha) is how it is different.
+2. A null hypothesis (Ho) can be stated how it is not different from the competitor (*There is no statistical difference between the observed sample mean and its presumed population mean*) and the alternative (Ha) is how it is different (*There is a statistical difference between the observed sample mean and its presumed population mean*).
 
-3. Data from the competitor's vehicles are needed in order to perform the t-test.
+3. Data from the competitor's vehicles are needed in order to perform a sample t-test.
 
-4. The population mean will be used to compare through the t-test.
+4. The observed sample mean against the presumed population mean will be used to compare through the t-test.
 
 
 
