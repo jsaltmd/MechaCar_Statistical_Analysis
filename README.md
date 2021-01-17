@@ -69,17 +69,17 @@ t-test results across all manufacturing lots:
 
 t-test results for each lot:
 
-##### Lot 1
+Mfg. Lot 1
 
 ![](./pictures/pic6.png)
 
 
-##### Lot 2
+Mfg. Lot 2
 
 ![](./pictures/pic7.png)
 
 
-##### Lot 3
+Mfg. Lot 3
 
 ![](./pictures/pic8.png)
 
